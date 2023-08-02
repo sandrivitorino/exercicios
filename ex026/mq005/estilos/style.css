@@ -50,6 +50,7 @@ menu > ul > li > a{
     background-color: rgb(88, 88, 88);
     color: white;
     border: 2px solid gray;
+    border-radius: 8px;
 }
 
 menu > ul > li > a:hover{
